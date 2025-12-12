@@ -1,10 +1,12 @@
-./build
-./checkpoints
-./logs
-./not_implemented
-./original
-./recordings
-./runs
-./tests
+build
+checkpoints
+logs
+not_implemented
+original
+recordings
+runs
+tests
 
 *.png
+
+README.md

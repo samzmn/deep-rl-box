@@ -1,0 +1,25 @@
+# This list of dependencies was generated with `pip3 freeze`
+
+# TensorFlow
+tensorflow==2.10.0
+
+# Gym environment
+gymnasium[other]
+gymnasium==1.1.1
+ale-py==0.7.5
+AutoROM==0.6.1
+AutoROM.accept-rom-license==0.6.1
+mujoco==2.2.2
+box2d-py==2.3.5
+imageio==2.37.0
+pyglet==2.0.9
+pygame==2.1.0
+
+# Tensorboard
+tensorboard==2.13.0
+
+# Utilities
+numpy==1.24.3
+matplotlib==3.10.3
+opencv-python==4.11.0.86
+python-snappy==0.7.3
